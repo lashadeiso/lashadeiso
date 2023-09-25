@@ -8,5 +8,5 @@
 - 🎓 🅰️ Angular
 - 🎓 TS
 - 🎓 JS
-- 🎓 HTML/CSS
+- 🎓 HTML/CSS/SCSS
 - 💻 Favorite IDE : 🆚code 
