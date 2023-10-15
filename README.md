@@ -5,8 +5,9 @@
 - 🔭 I’m currently working on Projects
 - 🔗 https://www.linkedin.com/in/lasha-deisadze-0084a0241/
 - ✍️ Name: 😒Lasha || 😎Deiso
-- 🎓 🅰️ Angular
+- 🎓 React
+- 🎓 Angular
 - 🎓 TS
 - 🎓 JS
-- 🎓 HTML/CSS/SCSS
+- 🎓 HTML/CSS/SCSS/SASS/Bootstrap/Tailwind CSS/Angular Material
 - 💻 Favorite IDE : 🆚code 
