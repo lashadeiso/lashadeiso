@@ -9,5 +9,5 @@
 - 🎓 Angular
 - 🎓 TS
 - 🎓 JS
-- 🎓 HTML/CSS/SCSS/SASS/Bootstrap/Tailwind CSS/Angular Material
+- 🎓 HTML/CSS/SCSS/SASS/Bootstrap/Tailwind CSS/Angular Material/Material UI
 - 💻 Favorite IDE : 🆚code 
