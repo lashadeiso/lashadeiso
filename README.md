@@ -6,5 +6,6 @@
 - 🎓 React JS / Vite / Redux / React-query
 - 🎓 Angular / RxJs / NgRx
 - 🎓 JS / TS
+- 🎓 Supabase
 - 🎓 HTML / CSS / SCSS / SASS / Bootstrap / Tailwind CSS / Angular Material / Material UI / Styled-Components
 
