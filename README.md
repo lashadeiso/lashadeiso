@@ -3,7 +3,7 @@
 
 - 🔗 https://www.linkedin.com/in/lasha-deisadze-0084a0241/
 - 🎓 Next JS / Auth.js / Clerk
-- 🎓 React JS / Vite / Redux / React-query
+- 🎓 React JS / Vite / Redux / React-query / Zustand
 - 🎓 Angular / RxJs / NgRx
 - 🎓 JS / TS
 - 🎓 MySQL / Mongodb / Supabase / Neon / Prisma
